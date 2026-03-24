@@ -1,4 +1,4 @@
-Contains the code for the revision of the paper Sum of Squares Submodularity.
+Contains the code for the revision of the paper Sum of Squares Submodularity. Default solver used is SCS. To use MOSEK, connect your lisence and set DEFAULT_SOLVER to Mosek. 
 
 
 ## Launch notebooks
